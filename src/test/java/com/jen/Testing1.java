@@ -10,7 +10,7 @@ public class Testing1 {
 	}
 	@Test
 	private void tc2() {
-		System.out.println("Jenkins2");
+		System.out.println("Jenkins3");
 	}
 
 
